@@ -1,0 +1,49 @@
+.App-principal {
+  background-color: #000000;
+  text-align: center;
+  padding: 20px 20px;
+  min-height: 100vh;
+}
+.App {
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.title {
+  font-size: 65px;
+}
+
+.Button-groupsRight {
+  border-radius: 0px;
+  text-align: right;
+  top: 10px;
+  
+}
+.Button-groupsLeft {
+  border-radius: 0px;
+  text-align: left;
+  top: 10px;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
